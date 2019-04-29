@@ -1,4 +1,4 @@
 # gles-presentations
-Presentation material for things related to computer graphics, physically based rendering and OpenGL (ES)
+Presentation material for things related to computer graphics, physically based rendering, OpenGL (ES) and OpenCL
 
 
